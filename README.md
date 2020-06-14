@@ -108,4 +108,6 @@ The `classification-ios` file in this repository contains the trained model that
 ## Built with
 * [IBM Cloud Annotations](https://cloud.annotations.ai/) - Building an image classification instance
 * [IBM Cloud](https://cloud.ibm.com/) - Create a machine learning instance
+* [IBM Watson Visual Recognition](https://www.ibm.com/sg-en/cloud/watson-visual-recognition/) - To integrate the visual recognition function into the app
 * [Xcode](https://developer.apple.com/xcode/) - To run and test the application on the simulator interface
+
