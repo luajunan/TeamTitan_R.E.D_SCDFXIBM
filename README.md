@@ -21,7 +21,7 @@ Speed up photo classification and assessment, pushing out notifications simultan
 Visual Recognition Tool to reduce assessment time and to reduce burden on emergency hotline.
 
 ## Pitch Video
-[![Watch the video](- insert ss-)](-insert video link-)
+![Watch the video](https://youtu.be/gJr4B99tME0)
 
 ## The Architecture
 ![Video transcription/translation app](https://github.com/luajunan/TeamTitan_R.E.D_SCDFXIBM/blob/master/architect.jpeg)
@@ -34,8 +34,8 @@ Visual Recognition Tool to reduce assessment time and to reduce burden on emerge
 6. Visual Recognition queries and classify using available fire images
 7. Geolocation of user and classification of fire is sent to SCDF for appropriate response
 8. App interface receives completion of task from Visual Recognition and broadcast message to nearby civilians and user
-9. User receives appropriate message from app interface informing of completion of request depending on whether user is CFR or civilian
-10. Nearby civilians receives appropriate message as an SMS from app interface
+9. User receives appropriate notification from app interface informing of completion of request, and evacuation message
+10. Nearby civilians receives appropriate notification from app interface
 
 ## Long Description
 [More details regarding our application](DESCRIPTION.md)
