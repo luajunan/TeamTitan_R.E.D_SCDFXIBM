@@ -13,7 +13,7 @@ To create a platform to bridge the gap between civilians and our task force in o
 [![Watch the video](- insert ss-)](-insert video link-)
 
 ## Architecture of Proposed Solution
-![Video transcription/translation app](-insert ss-)
+![Video transcription/translation app](https://github.com/luajunan/TeamTitan_R.E.D_SCDFXIBM/blob/master/architect.jpeg)
 
 1. User reports a fire with a picture using an app
 2. App interface receives image and queries Google Maps for geolocation
