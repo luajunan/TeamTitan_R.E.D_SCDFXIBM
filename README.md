@@ -3,11 +3,11 @@
 ## Short Description
 
 ### Problem: 
-Manually assessing photos of onsite information before pushing out notifications to CFRs can be faster 
+Manually assessing photos of onsite information before pushing out notifications to CFRs can be faster.
 ### How can technology help: 
-Speed up photo classification and assessment, pushing out notifications simultaneously. Visual Recognition of the photos will allow quicker assessment, resulting in simultaneous notification of SCDF personnel, CFRs and non-CFRs, bridging the time lag of manually assessing and pushing out notifications thereafter
+Speed up photo classification and assessment, pushing out notifications simultaneously. Visual Recognition of the photos will allow quicker assessment, resulting in simultaneous notification of SCDF personnel, CFRs and non-CFRs, bridging the time lag of manually assessing and pushing out notifications thereafter.
 ### The idea:
-To create a function to bridge the gap between civilians and our task force in order to provide professional help in times of a crisis. 
+Visual Recognition Tool to reduce assessment time and to reduce burden on emergency hotline.
 
 ## Pitch Video
 [![Watch the video](- insert ss-)](-insert video link-)
@@ -90,9 +90,6 @@ Now we have to create a certificate to sign our app with
 1. Tap your email, tap **trust**
 
 Now you're ready to run the app!
-
-## Trial Run
-The classification-ios file contains the model that has been trained with various images. You could use it to run on your Xcode platform to see how the function works.
 
 ## Built with
 * [IBM Cloud Annotations](https://cloud.annotations.ai/) - Building an image classification instance
