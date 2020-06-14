@@ -5,7 +5,7 @@
 ### Problem: 
 Manually assessing photos of onsite information before pushing out notifications to CFRs can be faster 
 ### How can technology help: 
-Speed up photo classification and assessment, pushing out notifications simultaneously.Visual Recognition of the photos will allow quicker assessment, resulting in simultaneous notification of SCDF personnel, CFRs and non-CFRs, bridging the time lag of manually assessing and pushing out notifications thereafter
+Speed up photo classification and assessment, pushing out notifications simultaneously. Visual Recognition of the photos will allow quicker assessment, resulting in simultaneous notification of SCDF personnel, CFRs and non-CFRs, bridging the time lag of manually assessing and pushing out notifications thereafter
 ### The idea:
 To create a function to bridge the gap between civilians and our task force in order to provide professional help in times of a crisis. 
 
