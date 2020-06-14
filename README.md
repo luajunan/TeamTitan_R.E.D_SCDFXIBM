@@ -2,14 +2,13 @@
 
 ## Contents
 
-1. [Short description](#short-description)
-1. [Demo video](#demo-video)
-1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
-1. [Live demo](#live-demo)
+1. [Short Description](#short-description)
+1. [Pitch Video](#pitch-video)
+1. [The Architecture](#the-architecture)
+1. [Long Description](#long-description)
+1. [Project Roadmap](#project-roadmap)
+1. [Getting Started](#getting-started)
+1. [Trial Run](#trial-run)
 1. [Built with](#built-with)
 
 ## Short Description
@@ -18,13 +17,13 @@
 Manually assessing photos of onsite information before pushing out notifications to CFRs can be faster.
 ### How can technology help: 
 Speed up photo classification and assessment, pushing out notifications simultaneously. Visual Recognition of the photos will allow quicker assessment, resulting in simultaneous notification of SCDF personnel, CFRs and non-CFRs, bridging the time lag of manually assessing and pushing out notifications thereafter.
-### The idea:
+### The Idea:
 Visual Recognition Tool to reduce assessment time and to reduce burden on emergency hotline.
 
 ## Pitch Video
 [![Watch the video](- insert ss-)](-insert video link-)
 
-## Architecture of Proposed Solution
+## The Architecture
 ![Video transcription/translation app](https://github.com/luajunan/TeamTitan_R.E.D_SCDFXIBM/blob/master/architect.jpeg)
 
 1. User reports a fire with a picture using an app
@@ -41,7 +40,7 @@ Visual Recognition Tool to reduce assessment time and to reduce burden on emerge
 ## Long Description
 [More details regarding our application](DESCRIPTION.md)
 
-## Project roadmap
+## Project Roadmap
 
 ![Roadmap](RED.jpg)
 
