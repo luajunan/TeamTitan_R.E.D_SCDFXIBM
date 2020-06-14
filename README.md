@@ -21,7 +21,7 @@ Speed up photo classification and assessment, pushing out notifications simultan
 Visual Recognition Tool to reduce assessment time and to reduce burden on emergency hotline.
 
 ## Pitch Video
-![Watch the video](https://youtu.be/gJr4B99tME0)
+[![Watch the video]()](https://youtu.be/gJr4B99tME0)
 
 ## The Architecture
 ![Video transcription/translation app](https://github.com/luajunan/TeamTitan_R.E.D_SCDFXIBM/blob/master/architect.jpeg)
