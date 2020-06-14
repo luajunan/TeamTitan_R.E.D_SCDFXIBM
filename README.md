@@ -26,13 +26,17 @@ To create a platform to bridge the gap between civilians and our task force in o
 9. User receives appropriate message from app interface informing of completion of request depending on whether user is CFR or civilian
 10. Nearby civilians receives appropriate message as an SMS from app interface
 
-## More Details
-[More detail is available here](DESCRIPTION.md)
+## Long Description
+[More details regarding our application](DESCRIPTION.md)
+
+## Project roadmap
+
+![Roadmap](RED.jpg)
 
 ## Getting Started
 
 ### Image Classification Setup
-Visit this [link](https://cloud.annotations.ai/workshops/classification/index.html)to create your own image classification bucket.
+Visit this [link](https://cloud.annotations.ai/workshops/classification/index.html) to create your own image classification bucket.
 
 ### Setup
 `git clone` the repo and `cd` into it by running the following command:
