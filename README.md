@@ -91,6 +91,9 @@ Now we have to create a certificate to sign our app with
 
 Now you're ready to run the app!
 
+## Trial Run
+The `classification-ios` file in this repository contains the trained model that we did. You may download and try to run it on your Xcode platform to see how our app works.
+
 ## Built with
 * [IBM Cloud Annotations](https://cloud.annotations.ai/) - Building an image classification instance
 * [IBM Cloud](https://cloud.ibm.com/) - Create a machine learning instance
