@@ -15,6 +15,17 @@ To create a platform to bridge the gap between civilians and our task force in o
 ## Architecture of Proposed Solution
 ![Video transcription/translation app](-insert ss-)
 
+1. User reports a fire with a picture using an app
+2. App interface receives image and queries Google Maps for geolocation
+3. Google Maps finds geolocation of user and replies to app interface
+4. App interface receives geolocation and calls IBM Watson Visual Recognition service
+5. Visual Recognition service uses machine learning to classify fire immage
+6. Visual Recognition queries and classify using available fire images
+7. Geolocation of user and classification of fire is sent to SCDF for appropriate response
+8. App interface receives completion of task from Visual Recognition and broadcast message to nearby civilians and user
+9. User receives appropriate message from app interface informing of completion of request depending on whether user is CFR or civilian
+10. Nearby civilians receives appropriate message as an SMS from app interface
+
 ## More Details
 [More detail is available here](DESCRIPTION.md)
 
@@ -77,6 +88,6 @@ Now we have to create a certificate to sign our app with
 Now you're ready to run the app!
 
 ## Built with
-[IBM Cloud Annotations](https://cloud.annotations.ai/) - Building an image classification instance
-[IBM Cloud](https://cloud.ibm.com/) - Create a machine learning instance
-[Xcode](https://developer.apple.com/xcode/) - To run and test the application on the simulator function
+* [IBM Cloud Annotations](https://cloud.annotations.ai/) - Building an image classification instance
+* [IBM Cloud](https://cloud.ibm.com/) - Create a machine learning instance
+* [Xcode](https://developer.apple.com/xcode/) - To run and test the application on the simulator interface
